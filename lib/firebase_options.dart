@@ -50,19 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB3Jg-uGNtSww7H_ld5Ck5HcisIehuYno4',
-    appId: '1:46631009846:android:66483d84247d52c698a297',
-    messagingSenderId: '46631009846',
-    projectId: 'notifications-65b0b',
-    storageBucket: 'notifications-65b0b.firebasestorage.app',
+    apiKey: 'AIzaSyACAHCHgKY87uwexuzhgkSxzEt2hjGwzN8',
+    appId: '1:744588317659:android:eea9bcc8f2a9622eb14dfe',
+    messagingSenderId: '744588317659',
+    projectId: 'u-task-app',
+    storageBucket: 'u-task-app.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC9l4GBHDSrEolHV3vBTOaukbC-vW-pEZk',
-    appId: '1:46631009846:ios:39f4e9c48068e0d698a297',
-    messagingSenderId: '46631009846',
-    projectId: 'notifications-65b0b',
-    storageBucket: 'notifications-65b0b.firebasestorage.app',
+    apiKey: 'AIzaSyCasxYhHGTyIsZH-mk3IR7vcM2pswVRZRQ',
+    appId: '1:744588317659:ios:e1dda4186421f493b14dfe',
+    messagingSenderId: '744588317659',
+    projectId: 'u-task-app',
+    storageBucket: 'u-task-app.firebasestorage.app',
+    iosClientId: '744588317659-73a4jskc23i3lcqhlfvbd6sdg59sic4j.apps.googleusercontent.com',
     iosBundleId: 'com.example.onlineClassroom',
   );
 
